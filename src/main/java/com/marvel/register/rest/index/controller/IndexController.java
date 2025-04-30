@@ -1,5 +1,6 @@
-package com.marvel.register.rest;
+package com.marvel.register.rest.index.controller;
 
+import com.marvel.register.service.index.IndexService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

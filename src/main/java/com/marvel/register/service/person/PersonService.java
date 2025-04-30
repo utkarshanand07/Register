@@ -2,7 +2,7 @@ package com.marvel.register.service.person;
 
 import com.marvel.register.document.person.PersonDocument;
 import com.marvel.register.document.person.PersonRepository;
-import com.marvel.register.rest.dto.PersonDTO;
+import com.marvel.register.rest.person.dto.PersonDTO;
 import com.marvel.register.service.person.converter.PersonDTOConverter;
 import org.springframework.stereotype.Service;
 

@@ -64,7 +64,7 @@ public class IndexService {
         scanner.addIncludeFilter(new AnnotationTypeFilter(Document.class));
 
         final Set<BeanDefinition> beanDefinitions = scanner.findCandidateComponents(
-                "com.lilium.register"
+                "com.marvel.register"
         );
 
         return beanDefinitions.stream()

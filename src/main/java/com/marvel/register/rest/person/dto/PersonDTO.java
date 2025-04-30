@@ -1,4 +1,4 @@
-package com.marvel.register.rest.dto;
+package com.marvel.register.rest.person.dto;
 
 public class PersonDTO {
     private String id;

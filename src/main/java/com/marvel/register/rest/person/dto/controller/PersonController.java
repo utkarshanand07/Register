@@ -1,6 +1,6 @@
-package com.marvel.register.rest.controller;
+package com.marvel.register.rest.person.dto.controller;
 
-import com.marvel.register.rest.dto.PersonDTO;
+import com.marvel.register.rest.person.dto.PersonDTO;
 import com.marvel.register.service.person.PersonService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
